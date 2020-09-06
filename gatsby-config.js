@@ -6,6 +6,7 @@ const cssnano = require('cssnano')
 const postCSSMixins = require('postcss-mixins')
 
 module.exports = {
+  pathPrefix: "/omaralsayed.github.io",
   siteMetadata: {
     title: `Omar`,
     description: `Omar Alsayed's Portfolio.`,

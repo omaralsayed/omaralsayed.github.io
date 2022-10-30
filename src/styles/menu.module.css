@@ -24,10 +24,10 @@
   padding: 0 15px;
   list-style: none;
   border-right: 1px solid;
-  margin-right: 18px;
+  margin-right: 12px;
 
   li {
-    margin: 0 12px;
+    margin: 0 0px;
   }
 
   &Trigger {

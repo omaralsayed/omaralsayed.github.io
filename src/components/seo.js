@@ -63,7 +63,6 @@ SEO.defaultProps = {
   lang: `en`,
   meta: [],
   keywords: [
-    'gatsby',
     'blog',
     'software',
   ],

@@ -8,7 +8,7 @@ const postCSSMixins = require('postcss-mixins')
 module.exports = {
   siteMetadata: {
     title: `Omar`,
-    description: `Omar Alsayed's Portfolio.`,
+    description: `Omar Alsayed's Portfolio. Omar is a Software Engineer in the Seattle Metropolitan Area with background in cloud infrastructure, distributed systems, and machine learning systems.`,
     copyrights: '',
     author: `Omar Alsayed`,
     logo: { src: '', alt: '' },
@@ -19,17 +19,9 @@ module.exports = {
     menuMoreText: 'More',
     mainMenu: [
       {
-        title: 'About',
-        path: '/about',
-      },
-      {
-        title: 'Projects',
-        path: '/projects',
-      },
-      {
-        title: 'Posts',
+        title: 'About Me',
         path: '/',
-      }
+      },
     ],
   },
   plugins: [

@@ -1,10 +1,9 @@
 {
   "name": "omaralsayed.github.io",
-  "description": "Omar Alsayed's portfolio. Omar is a graduate Computer Science student and a Deep Learning researcher.",
+  "description": "Omar Alsayed's Portfolio.",
   "version": "0.1.0",
   "author": "Omar Alsayed",
   "keywords": [
-    "gatsby",
     "blog",
     "software"
   ],
